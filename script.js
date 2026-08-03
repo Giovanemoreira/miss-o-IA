@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Ao sair da escola, Davi vê um parque cheio de lixo e pensa no inpacto disso para a natureza. Oque ele decide?",
+    enunciado: "Ao sair da escola, Davi vê um parque cheio de lixo e pensa no impacto disso para a natureza. Oque ele decide?",
     alternativas: [
         "Cuida do meio anbiente é responsabilidade de todos.",
         "Pequenas atitudes não fazem, diferença para o meio anbiente"
