@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Ao sair da escola, Davi vê um parque cheio de lixo e pensa no impacto disso para a natureza. O que ele decide?",
+    enunciado: "Ao sair da escola, você vê um parque cheio de lixo e pensa no impacto disso para a natureza. O que você decide?",
     alternativas: [
         {
             texto: "Cuidar do meio ambiente é responsabilidade de todos.",
             afirmacao: "Cuidar do meio ambiente é responsabilidade de todos e pequenas atitudes ajudam a preservar a natureza."
         },
         {
-            texto: "Pequenas atitudes não fazem, diferença para o meio ambiente.",
+            texto: "Pequenas atitudes não fazem diferença para o meio ambiente.",
             afirmacao: "A preservação do meio ambiente depende apenas do governo, por isso as ações individuais não fazem diferença."
         }  
     ]
